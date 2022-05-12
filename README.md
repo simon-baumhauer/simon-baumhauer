@@ -1,5 +1,5 @@
 
-<h1 align="center">🏻‍💻 Hi, I’m Simon</h1> 
+<h1 align="center">:desktop_computer: Hi, I’m Simon</h1> 
 <h2 align="center">Frontend development enthusiast </h2>  
  
 
