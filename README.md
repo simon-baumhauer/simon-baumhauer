@@ -11,7 +11,7 @@
 
 
 <h3>Languages & Tools I Use:</h3>
-<p align="center">
+<p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,firebase,bootstrap,git,vscode" />
   </a>
