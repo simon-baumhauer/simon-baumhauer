@@ -6,7 +6,6 @@
 - 🍃 I love creating new things 
 - 📖 I’m currently learning Angular/Javascript
 - 🌸 I enjoy some CSS and HTML as well! 
-- 🐙 Developer work experience 0
 
 
 
