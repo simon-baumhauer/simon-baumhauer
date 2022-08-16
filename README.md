@@ -5,8 +5,6 @@
 
 - 🍃 I love creating new things 
 - 📖 I’m currently learning Angular/Javascript
-- 🌸 I enjoy some CSS and HTML as well! 
-
 
 
 <h3>Languages & Tools I Use:</h3>
