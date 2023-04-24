@@ -1,6 +1,6 @@
 
 <h1 align="center">:desktop_computer: Hi, I’m Simon</h1> 
-<h2 align="center">Frontend development enthusiast </h2>  
+<h2 align="center">Software development enthusiast</h2>  
 
 
 <h3>Languages & Tools I Use:</h3>
