@@ -11,6 +11,7 @@
 </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=simon-baumhauer&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=simon-baumhauer&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3>Let's Connect:</h3>
 <p><a href="https://www.linkedin.com/in/simon-baumhauer-850084239/"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="me in linkedin" height="auto" width="30"/></a></p>
