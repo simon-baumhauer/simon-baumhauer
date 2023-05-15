@@ -10,7 +10,7 @@
   </a>
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=simon-baumhauer&layout=compact&hide=html,css,scss, Perl&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=simon-baumhauer&layout=compact&hide=html,css,scss&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <h3>Let's Connect:</h3>
