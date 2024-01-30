@@ -6,11 +6,11 @@
 <h3>Languages & Tools I Use:</h3>
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,firebase,bootstrap,git,vscode" height="30" width="auto"/>
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,git,vscode" height="30" width="auto"/>
   </a>
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=simon-baumhauer&layout=compact&hide=html,css,scss,Perl,PHP,Shell&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=simon-baumhauer&layout=compact&hide=html,css,scss,Perl,PHP&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <h3>Let's Connect:</h3>
