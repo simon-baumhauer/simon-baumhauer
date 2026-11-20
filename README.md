@@ -1,22 +1,22 @@
+<h1 align="center">Hallo, ich bin Simon 👋</h1>
+<p align="center">Softwareentwickler in der Schweiz, mit Schwerpunkt auf Software für Pflege und Gesundheitswesen.</p>
 
-<h1 align="center">:desktop_computer: Hi, I’m Simon</h1> 
-<h2 align="center">Software development enthusiast</h2>  
+### Woran ich arbeite
 
+- Fachanwendungen für Heime und Spitex: Dienstplanung, Zeit- und Lohnabläufe, Pflegedokumentation
+- Web und Mobile mit React, Angular und Capacitor, Backends in C# und .NET
+- Kleine Werkzeuge für den eigenen Alltag, zum Beispiel [Kladde](https://github.com/simon-baumhauer/kladde), ein Texteditor für macOS nach dem Vorbild von Notepad++ (Swift/AppKit, Scintilla)
 
-<h3>Languages & Tools I Use:</h3>
+### Womit ich arbeite
+
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,git,vscode" height="30" width="auto"/>
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,ts,react,angular,swift,sqlite,docker,linux,git&perline=10" alt="C#, .NET, TypeScript, React, Angular, Swift, SQLite, Docker, Linux, Git" height="40"/>
   </a>
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=simon-baumhauer&layout=compact&hide=html,css,scss,Perl,PHP&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+### Kontakt
 
-
-<h3>Let's Connect:</h3>
-<p><a href="https://www.linkedin.com/in/simon-baumhauer-850084239/"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="me in linkedin" height="auto" width="30"/></a></p>
-
-<!-- ![Github stats](https://github-readme-stats.vercel.app/api?username=catherineisonline&theme=omni&show_icons=true&locale=en) -->
-
-
-
+<p>
+  <a href="https://www.linkedin.com/in/simon-baumhauer-850084239/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="Simon Baumhauer auf LinkedIn" height="30"/></a>
+</p>
